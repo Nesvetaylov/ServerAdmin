@@ -1,0 +1,2 @@
+user1:x:1000:1000::/home/user:/bin/bash
+user2:x:1001:1001::/home/user2:/bin/bash
