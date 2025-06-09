@@ -45,3 +45,4 @@
 4. Доработки приложения
 Trigger Github Actions
 Trigger Github Actions_________
+Trigger Github Actions__final
